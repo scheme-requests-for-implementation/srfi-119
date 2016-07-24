@@ -1,0 +1,16 @@
+* SRFI 119: wisp: simpler indentation-sensitive scheme
+
+** by Arne Babenhauserheide
+
+This repository hosts [[http://srfi.schemers.org/srfi-119/][SRFI 119]]: wisp: simpler indentation-sensitive scheme, a [[http://srfi.schemers.org/][Scheme Request for Implementation]].
+
+This SRFI is in /final/ status.
+
+The full documentation for this SRFI can be found in the [[http://srfi.schemers.org/srfi-119/srfi-119.html][SRFI Document]].
+
+If you'd like to participate in the discussion of this SRFI, or report issues with it, please [[http://srfi.schemers.org/srfi-119/][join the SRFI-119 mailing list]] and send your message there.
+
+Thank you.
+
+
+[[mailto:srfi-editors@srfi.schemers.org][The SRFI Editors]]
