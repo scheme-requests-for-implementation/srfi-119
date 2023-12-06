@@ -1,4 +1,5 @@
-#!/home/arne/wisp/wisp-multiline.sh 
+#!/home/arne/wisp/wisp-multiline.sh
+# SPDX-License-Identifier: MIT
 ; !#
 
 ;; This file might need to be licensed permissively for inclusion in
