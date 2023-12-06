@@ -1,4 +1,7 @@
 #!/bin/sh
+# SPDX-FileCopyrightText: 2014 Arne Babenhauserheide <arne_bab@web.de>
+#
+# SPDX-License-Identifier: MIT
 
 # Bootstrap wisp using Python 3
 

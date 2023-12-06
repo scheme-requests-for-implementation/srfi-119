@@ -1,5 +1,6 @@
 #!/bin/bash
 # -*- wisp -*-
+# SPDX-License-Identifier: MIT
 exec guile -L . --language=wisp -s "$0" "$@"
 ; !#
 
